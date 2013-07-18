@@ -1,0 +1,4 @@
+= $name$ =
+:docinfo:
+
+Describe someting here.

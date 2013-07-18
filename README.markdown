@@ -1,0 +1,1 @@
+A [giter8](https://github.com/n8han/giter8) template for making [ascii2docx](https://github.com/hamazy/asciidoc2docx) project.
